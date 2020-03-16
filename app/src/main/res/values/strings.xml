@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit Demo</string>
+
+    <string name="photo_family">Family</string>
+    <string name="photo_vacation">Vacation</string>
+    <string name="photo_flowers">Flowers</string>
+    <string name="other">Other</string>
+    <string name="search">Search</string>
+</resources>
